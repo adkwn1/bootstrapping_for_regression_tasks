@@ -21,7 +21,7 @@ Three csv files for each region:
 - *f0, f1, f2*: three features of points (their specific meaning is unimportant, but the features themselves are significant)
 - *product*: volume of reserves in the oil well (thousand barrels)
 
-## Required Libraries
+## Requirements
 - pandas
 - numpy
 - sklearn.linear_model
